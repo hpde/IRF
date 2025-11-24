@@ -1,13 +1,3 @@
-# naming-auth-template
-Initialization template for new Spase Naming Authorities.
-
-Creating a new github repository using this template will copy in the README and LICENSE files
-and add .github/workflows scripts to automate alerts on push updates.
-
-When creating a new Naming Authority repository, select
-hpde/naming-auth-template
-from the "Repository template" dropdown at the top of the new repository panel.
-
 [![SPASE Monthly Validation](https://github.com/hpde/NASA/actions/workflows/validate-schedule.yml/badge.svg)](https://github.com/hpde/NASA/actions/workflows/validate-schedule.yml)
 [![SPASE Push Validation](https://github.com/hpde/NASA/actions/workflows/validate-push.yml/badge.svg)](https://github.com/hpde/NASA/actions/workflows/validate-push.yml)
 
